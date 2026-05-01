@@ -17,12 +17,6 @@ export const awards: Award[] = [
     date: "Sept 2023",
   },
   {
-    title: "STAN / Exxon Mobil Science Fair — State winner",
-    issuer: "Science Teachers Association of Nigeria / Exxon Mobil",
-    date: "Aug 2012",
-    detail: "Represented Rivers State nationally and placed 1st runner-up.",
-  },
-  {
     title: "Recognised in Shell department newsletter",
     issuer: "Trading & Supply Competency Centre",
     detail: "Highlighted for driving business value.",

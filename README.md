@@ -12,7 +12,7 @@ Personal portfolio built with **Next.js 16** (App Router), **TypeScript**, **Tai
 ```bash
 npm install
 cp .env.example .env.local
-# Edit NEXT_PUBLIC_SITE_URL and optional Resend keys — see below
+# Edit NEXT_PUBLIC_SITE_URL
 npm run dev
 ```
 
@@ -52,11 +52,6 @@ See [`.env.example`](.env.example).
 | Variable                 | Required | Description                                      |
 | ------------------------ | -------- | ------------------------------------------------ |
 | `NEXT_PUBLIC_SITE_URL`   | Yes\*    | Canonical URL for metadata, sitemap, OG (\*defaults to `https://emmanuelozioma.dev`) |
-| `RESEND_API_KEY`         | No       | Enables email sending from the contact form      |
-| `RESEND_FROM_EMAIL`      | No       | Verified sender in Resend (test: onboarding address) |
-| `CONTACT_TO_EMAIL`       | No       | Inbox for contact submissions (defaults to profile email) |
-
-Without `RESEND_API_KEY`, the contact API returns a **mailto fallback** so visitors can still reach you.
 
 ## Deploy to GitHub + Vercel
 

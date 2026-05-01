@@ -7,10 +7,10 @@ export const profile = {
   location: "Birmingham / Manchester, UK",
   email: "o.emmanuelozioma@gmail.com",
   summary:
-    "I'm a Software Engineer with ~4 years of industry experience across backend and full-stack roles. I've shipped APIs and platforms at enterprise scale—recently modernising compliance tooling with Spring Boot and React on Kubernetes—and previously contributing to a fintech trading stack handling billions of barrels of traded volume. I've led a GenAI-powered internal initiative, earned multiple honours for delivery quality, and teach developers globally via my YouTube channel OzyCodes.",
+    "I'm a Software Engineer with ~4 years of industry experience across backend and full-stack roles. I've shipped APIs and platforms at enterprise scale, recently modernising compliance tooling with Spring Boot and React on Kubernetes, and previously contributing to a fintech trading stack handling billions of barrels of traded volume. I've led a GenAI-powered internal initiative, earned multiple honours for delivery quality, and teach developers globally via my YouTube channel OzyCodes.",
   links: {
     linkedin: "https://www.linkedin.com/in/emmanuel-ozioma-267567203/",
-    github: "https://github.com/emmanuel-ozioma",
+    github: "https://github.com/Ozystar117",
     youtube: "https://www.youtube.com/@OzyCodes",
   },
 } as const;
