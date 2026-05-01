@@ -23,7 +23,12 @@ export function ThemeToggle() {
 
   if (!mounted) {
     return (
-      <Button variant="ghost" size="icon" className="size-9 rounded-full" aria-label="Toggle theme">
+      <Button
+        variant="outline"
+        size="icon"
+        className="border-border bg-card text-foreground hover:bg-primary/10 hover:text-primary hover:border-primary/40 size-9 rounded-full transition-colors"
+        aria-label="Toggle theme"
+      >
         <Sun className="size-4 opacity-0" />
       </Button>
     );
@@ -34,9 +39,9 @@ export function ThemeToggle() {
   return (
     <Button
       type="button"
-      variant="ghost"
+      variant="outline"
       size="icon"
-      className="size-9 rounded-full"
+      className="border-border bg-card text-foreground hover:bg-primary/10 hover:text-primary hover:border-primary/40 size-9 rounded-full transition-colors"
       aria-label={isDark ? "Switch to light mode" : "Switch to dark mode"}
       onClick={() => setTheme(isDark ? "light" : "dark")}
     >

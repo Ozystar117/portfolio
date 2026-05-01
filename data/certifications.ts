@@ -19,6 +19,7 @@ export const certifications: Certification[] = [
     issuer: "Shell",
     status: "completed",
     issued: "Sept 2024",
+    href: "https://www.credly.com/badges/54f3f06d-436d-4c3c-8304-815a2fbebdb2/public_url",
   },
   {
     name: "IBM AI Developer",

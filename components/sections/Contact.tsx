@@ -14,7 +14,7 @@ export function Contact() {
         <SectionHeading
           eyebrow="Contact"
           title="Let's build something solid"
-          description="I'm open to engineering roles, collaboration, and short consulting calls."
+          description="I'm open to engineering roles, collaboration, and hackathons."
         />
         <Card className="border-border/80 bg-card/60 mx-auto max-w-xl shadow-sm">
           <CardContent className="flex flex-col gap-4 p-6 sm:p-8">

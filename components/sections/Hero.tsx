@@ -62,7 +62,7 @@ export function Hero() {
             </Button>
             <Button asChild variant="ghost" size="lg" className="gap-2 rounded-full">
               <a href={`#${SECTION_IDS.contact}`}>
-                Contact form <ArrowRight className="size-4" />
+                Get in touch <ArrowRight className="size-4" />
               </a>
             </Button>
           </div>
