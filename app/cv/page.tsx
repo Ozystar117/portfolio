@@ -33,7 +33,7 @@ export default function CVPage() {
           If the preview does not load, use the download button (some browsers block inline PDFs).
         </div>
         <object
-          data={PDF}
+          data={`${PDF}#navpanes=0`}
           type="application/pdf"
           className="min-h-[70vh] w-full flex-1"
           title="Emmanuel Ozioma CV"
