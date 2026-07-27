@@ -59,7 +59,7 @@ export function Projects() {
                   <div className="border-border/70 overflow-hidden rounded-xl border">
                     <iframe
                       src={`https://www.youtube.com/embed/${project.embedYouTubeId}`}
-                      title={`${project.title} — embedded video`}
+                      title={`${project.title} - embedded video`}
                       className="aspect-video w-full"
                       loading="lazy"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

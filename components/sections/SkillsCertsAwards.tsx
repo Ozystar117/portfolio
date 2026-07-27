@@ -16,7 +16,7 @@ export function SkillsSection() {
         <SectionHeading
           eyebrow="Skills"
           title="Stack I lean on"
-          description="Groupings are indicative—my real superpower is learning the right tool for the job."
+          description="Groupings are indicative; my real superpower is learning the right tool for the job."
         />
         <div className="grid gap-4 sm:grid-cols-2">
           {skillGroups.map((g) => (

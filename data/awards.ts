@@ -7,13 +7,13 @@ export type Award = {
 
 export const awards: Award[] = [
   {
-    title: "5 Star Honours — Going Above and Beyond",
-    issuer: "Shell — CC Lead Crude & Product Software Eng.",
+    title: "5 Star Honours - Going Above and Beyond",
+    issuer: "Shell - CC Lead Crude & Product Software Eng.",
     date: "Oct 2024",
   },
   {
-    title: "5 Star Honours — Improved Quality Standard",
-    issuer: "Shell — CC Lead Crude & Products Software Eng.",
+    title: "5 Star Honours - Improved Quality Standard",
+    issuer: "Shell - CC Lead Crude & Products Software Eng.",
     date: "Sept 2023",
   },
   {

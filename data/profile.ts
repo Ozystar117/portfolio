@@ -3,7 +3,7 @@ export const profile = {
   shortName: "Emmanuel O.",
   headline: "Software Engineer @ Goldman Sachs",
   tagline:
-    "Full-stack engineer building scalable systems and compliance platforms in finance—with depth in APIs, microservices, cloud, and GenAI.",
+    "Full-stack engineer building scalable systems and compliance platforms in finance, with depth in APIs, microservices, cloud, and GenAI.",
   location: "Birmingham / Manchester, UK",
   email: "o.emmanuelozioma@gmail.com",
   summary:

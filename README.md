@@ -1,4 +1,4 @@
-# Emmanuel Ozioma — Developer Portfolio
+# Emmanuel Ozioma - Developer Portfolio
 
 Personal portfolio built with **Next.js 16** (App Router), **TypeScript**, **Tailwind CSS v4**, **shadcn/ui**, **Framer Motion**, and **Vercel Analytics**. Content is typed and lives under [`data/`](data/) for easy updates.
 

@@ -24,11 +24,11 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://emmanuelozioma.dev"
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Emmanuel Ozioma — Software Engineer",
+    default: "Emmanuel Ozioma - Software Engineer",
     template: "%s · Emmanuel Ozioma",
   },
   description:
-    "Full-stack software engineer (Goldman Sachs). APIs, microservices, Kubernetes, Spring Boot, React, .NET—plus GenAI leadership and developer education via OzyCodes.",
+    "Full-stack software engineer (Goldman Sachs). APIs, microservices, Kubernetes, Spring Boot, React, .NET, plus GenAI leadership and developer education via OzyCodes.",
   keywords: [
     "Emmanuel Ozioma",
     "software engineer",
@@ -48,15 +48,15 @@ export const metadata: Metadata = {
     locale: "en_GB",
     url: siteUrl,
     siteName: "Emmanuel Ozioma",
-    title: "Emmanuel Ozioma — Software Engineer",
+    title: "Emmanuel Ozioma - Software Engineer",
     description:
-      "Full-stack engineer building scalable systems in finance—APIs, cloud-native platforms, and GenAI initiatives.",
+      "Full-stack engineer building scalable systems in finance: APIs, cloud-native platforms, and GenAI initiatives.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Emmanuel Ozioma — Software Engineer",
+    title: "Emmanuel Ozioma - Software Engineer",
     description:
-      "Full-stack engineer building scalable systems in finance—APIs, cloud-native platforms, and GenAI initiatives.",
+      "Full-stack engineer building scalable systems in finance: APIs, cloud-native platforms, and GenAI initiatives.",
   },
 };
 

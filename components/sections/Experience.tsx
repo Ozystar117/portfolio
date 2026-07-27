@@ -20,7 +20,7 @@ export function Experience() {
         <SectionHeading
           eyebrow="Experience"
           title="Where I've shipped impact"
-          description="Enterprise finance and energy—APIs, reliability, migrations, and leadership moments."
+          description="Enterprise finance and energy: APIs, reliability, migrations, and leadership moments."
         />
         <div className="relative mx-auto max-w-3xl space-y-8">
           <div

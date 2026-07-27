@@ -24,19 +24,19 @@ export const experiences: ExperienceEntry[] = [
     company: "Goldman Sachs",
     location: "Birmingham, UK",
     period: "Aug 2025 – Present",
-    role: "Software Engineer II — Compliance (Full-stack)",
+    role: "Software Engineer II - Compliance (Full-stack)",
     bullets: [
       {
         text: "Leading architecture and end-to-end development of an internal compliance platform serving 100+ users across 5 business units, with domain-driven data models and event-driven workflows.",
       },
       {
-        text: "Modernised two legacy applications by migrating to Spring Boot, Hibernate, and React—improving maintainability and deployment reliability.",
+        text: "Modernised two legacy applications by migrating to Spring Boot, Hibernate, and React, improving maintainability and deployment reliability.",
       },
       {
         text: "Designed and delivered a production-grade Spring Boot & React application used across 5+ business units with no critical incidents since launch; availability via EKS with multiple clusters and pods.",
       },
       {
-        text: "Owned production reliability across three compliance-critical applications—cut incident resolution time by ~30% and improved uptime to 99.9%.",
+        text: "Owned production reliability across three compliance-critical applications, cutting incident resolution time by ~30% and improving uptime to 99.9%.",
       },
       {
         text: "Reduced latency on three legacy endpoints from over 5 minutes to under 10 seconds.",
@@ -60,10 +60,10 @@ export const experiences: ExperienceEntry[] = [
     role: "Associate Software Engineer",
     subRoles: [
       {
-        title: "Backend Developer — Downstream Exchange",
+        title: "Backend Developer - Downstream Exchange",
         bullets: [
           {
-            text: "Developed and optimised backend systems for a fintech trading application associated with $25M+ annual benefits from 4B+ barrels traded—with zero downtime.",
+            text: "Developed and optimised backend systems for a fintech trading application associated with $25M+ annual benefits from 4B+ barrels traded, with zero downtime.",
           },
           {
             text: "Designed and built scalable APIs; improved SonarQube rating by 25% and achieved 100% test coverage on new code.",
@@ -72,7 +72,7 @@ export const experiences: ExperienceEntry[] = [
             text: "Conducted 15+ code reviews and testing cycles to uphold quality across deliverables.",
           },
           {
-            text: "Integrated external exchange market data to construct dynamic price curves—working with traders, BAs, and QA for end-to-end delivery.",
+            text: "Integrated external exchange market data to construct dynamic price curves, working with traders, BAs, and QA for end-to-end delivery.",
           },
         ],
         tech: [
@@ -89,7 +89,7 @@ export const experiences: ExperienceEntry[] = [
         ],
       },
       {
-        title: "Deployment Manager — Downstream Pricing",
+        title: "Deployment Manager - Downstream Pricing",
         bullets: [
           {
             text: "Led multi-environment deployment cycles with strong uptime and dependency integrity across microservices.",
@@ -100,7 +100,7 @@ export const experiences: ExperienceEntry[] = [
         ],
       },
       {
-        title: "Tech Lead — Shell Intellytics (capstone)",
+        title: "Tech Lead - Shell Intellytics (capstone)",
         bullets: [
           {
             text: "Led a team of five to deliver a GenAI-powered web application projected to improve analyst productivity by $4,000/month using Python.",
